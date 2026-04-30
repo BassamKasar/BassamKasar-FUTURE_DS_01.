@@ -28,10 +28,10 @@ Based on the **Adidas Data Sales.pbix** report and **image_1a0905.png**:
 
 ## 💡 Business Recommendations
 1. **Inventory Scaling**: Increase stock levels for lifestyle footwear categories in Q2 to prepare for the July sales peak.
-2. **Regional Focus**: Direct marketing efforts toward the **West Region**, as it shows the highest concentration of profitable sales.[cite: 1]
-3. **Omnichannel Strategy**: Invest in "Buy Online, Pick Up In-Store" (BOPIS) to bridge the gap between the growing Online channel (27%) and the dominant In-store channel (39%).[cite: 1]
+2. **Regional Focus**: Direct marketing efforts toward the **West Region**, as it shows the highest concentration of profitable sales.
+3. **Omnichannel Strategy**: Invest in "Buy Online, Pick Up In-Store" (BOPIS) to bridge the gap between the growing Online channel (27%) and the dominant In-store channel (39%).
 
 ## 🚀 How to View the Dashboard
-1. Download the `Adidas Data Sales.pbix` file.[cite: 1]
+1. Download the `Adidas Data Sales.pbix` file.
 2. Open it using **Power BI Desktop**.
-3. Use the **Region** and **Year** slicers to interact with the data.[cite: 1]
+3. Use the **Region** and **Year** slicers to interact with the data.
